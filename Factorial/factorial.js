@@ -14,4 +14,3 @@ console.log(factorial(4));
 
 //Big-O = O(n)
 // Value of n icreases the number of times fact = fact* i executes
-console.log(4%4);

@@ -9,9 +9,10 @@ function fibanacci(n){
 }
 
 console.log(fibanacci(2));
-console.log(fibanacci(1));
 console.log(fibanacci(3));
 console.log(fibanacci(11));
+console.log(fibanacci(4));
+
 
 // Big-O = O(n)
 
