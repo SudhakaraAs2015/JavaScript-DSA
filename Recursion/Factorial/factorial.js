@@ -1,3 +1,4 @@
+// Recursion is process of sloving problem or calling function itself
 function recursiveFactorial (n){
     if(n===0){
         return 1
