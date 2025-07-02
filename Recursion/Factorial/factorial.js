@@ -7,3 +7,6 @@ function recursiveFactorial (n){
     return n * recursiveFactorial(n-1);
 };
 console.log(recursiveFactorial(6));
+
+// Big-O = O(n)
+// If n increases the number of instructions increases at the same time
