@@ -9,3 +9,4 @@ console.log(recursiveFibonacci(3));
 console.log(recursiveFibonacci(7));
 console.log(recursiveFibonacci(8));
 
+// Big-O = (2 power n)
