@@ -18,4 +18,4 @@ function quickSorting(arr) {
 console.log(quickSorting([8, 20, -2, 4, -6]));
 
 //Worst case - O(n^2)
-// Avg Case -O(logn)
+//Avg Case -O(logn)
