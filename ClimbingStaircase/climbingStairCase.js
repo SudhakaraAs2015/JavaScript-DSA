@@ -9,4 +9,4 @@ const climbingStair = (n) => {
 console.log(climbingStair(5));
 
 //T.C = O(n)
-//S.C = O(n) 
+//S.C = O(n)
